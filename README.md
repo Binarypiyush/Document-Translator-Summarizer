@@ -111,7 +111,3 @@ This project is licensed under the MIT License.
 🌐 Streamlit
 
 🎤 Google Speech-to-Text
-
-yaml
-Copy
-Edit
