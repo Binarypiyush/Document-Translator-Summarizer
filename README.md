@@ -83,6 +83,8 @@ streamlit run app.py
 
 ## 📁 Project Structure
 
+
+
 document-translator-summarizer/
 │
 ├── app.py               # Main Streamlit app script
@@ -91,10 +93,12 @@ document-translator-summarizer/
 ├── LICENSE              # MIT License
 └── .gitignore           # Files to ignore in Git
 
+
 ---
 
 
 ## 💡 Future Enhancements
+
 🧾 OCR support for image-based PDFs
 
 🌐 Auto language detection
