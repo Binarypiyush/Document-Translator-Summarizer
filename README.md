@@ -66,10 +66,11 @@ This is a Streamlit web app that lets users **translate and summarize** text fro
 
 ## 📦 Installation
 
-### 1. Clone the repository
-```bash
+ 1. Clone the repository
+    
 git clone https://github.com/your-username/document-translator-summarizer.git
 cd document-translator-summarizer
+
 2. Install dependencies
 bash
 Copy
@@ -111,3 +112,7 @@ This project is licensed under the MIT License.
 🌐 Streamlit
 
 🎤 Google Speech-to-Text
+
+yaml
+Copy
+Edit
