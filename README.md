@@ -1,11 +1,6 @@
 # Document-Translator-Summarizer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/binarypiyush/multilingual-translator-summarizer/main/banner.png" alt="Multilingual Translator & Summarizer Banner" />
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8BBE&width=500&lines=🌍+Multilingual+Translator+%26+Summarizer;Translate+%2F+Summarize+PDFs,+Voice,+Text!" alt="Typing SVG" />
 </p>
 
