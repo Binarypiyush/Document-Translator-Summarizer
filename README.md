@@ -1,7 +1,7 @@
 # Document-Translator-Summarizer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Binarypiyush/multilingual-translator-summarizer/main/banner.png" alt="Multilingual Translator & Summarizer Banner" />
+  <img src="https://raw.githubusercontent.com/binarypiyush/multilingual-translator-summarizer/main/banner.png" alt="Multilingual Translator & Summarizer Banner" />
 </p>
 
 
