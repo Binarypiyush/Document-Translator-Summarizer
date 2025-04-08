@@ -66,25 +66,23 @@ This is a Streamlit web app that lets users **translate and summarize** text fro
 
 ## 📦 Installation
 
-### 1. Clone the repository
+ 1. Clone the repository
     
 git clone https://github.com/your-username/document-translator-summarizer.git
 cd document-translator-summarizer
 
 2. Install dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
+
 3. Run the Streamlit app
-bash
-Copy
-Edit
+
 streamlit run app.py
-📁 Project Structure
-bash
-Copy
-Edit
+
+---
+
+## 📁 Project Structure
+
 document-translator-summarizer/
 │
 ├── app.py               # Main Streamlit app script
@@ -92,7 +90,11 @@ document-translator-summarizer/
 ├── README.md            # Project documentation
 ├── LICENSE              # MIT License
 └── .gitignore           # Files to ignore in Git
-💡 Future Enhancements
+
+---
+
+
+## 💡 Future Enhancements
 🧾 OCR support for image-based PDFs
 
 🌐 Auto language detection
@@ -103,16 +105,21 @@ document-translator-summarizer/
 
 🌎 More language support
 
-📄 License
+---
+
+
+## 📄 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgements
+---
+
+## 🙌 Acknowledgements
+
 🤗 Hugging Face Transformers
 
 🌐 Streamlit
 
 🎤 Google Speech-to-Text
 
-yaml
-Copy
-Edit
+---
+
