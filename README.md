@@ -29,11 +29,9 @@ This is a Streamlit web app that lets users **translate and summarize** text fro
 
 ### 🚀 Live Demo
 
-> Coming soon on Streamlit Cloud!  
-> *(Once deployed, add the link here and the badge below)*
 
 ```markdown
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-translator-summarizer-j3bbwwmjo2f2kjiylrzrqg.streamlit.app/)
 
 ✨ Features
 📄 PDF Extraction – Upload PDF and extract readable text
